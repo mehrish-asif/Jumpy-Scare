@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../../../Django"
+		},
+		{
+			"path": "../.."
+		},
+		{
+			"path": "../../../next-app"
+		},
+		{
+			"path": "../../../OOP-Project-Hangman"
+		}
+	]
+}
